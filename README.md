@@ -1,121 +1,250 @@
-# Hi there, I'm Tushar Surti 👋
-
 <div align="center">
-  
+
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> Hey there, I'm Tushar Surti
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3EFFE7&center=true&vCenter=true&random=false&width=600&lines=Computer+Engineering+Student;Machine+Learning+Enthusiast;Full+Stack+Developer;AI+%26+Deep+Learning+Explorer;Open+Source+Contributor" alt="Typing SVG" />
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsurti6@gmail.com)
-[![Location](https://img.shields.io/badge/Mumbai-Maharashtra-orange?style=for-the-badge&logo=google-maps&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
-## 🚀 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
-Computer Engineering student passionate about **Machine Learning**, **Deep Learning**, and **Web Development**. I build solutions that make a difference—from AI-powered accessibility tools to environmental tech for renewable energy.
+```python
+class TusharSurti:
+    def __init__(self):
+        self.username = "YOUR_USERNAME"
+        self.location = "Mumbai, India 🇮🇳"
+        self.role = "Computer Engineering Student"
+        self.languages_spoken = ["English", "Hindi", "Gujarati", "Marathi"]
+        self.code = ["Python", "JavaScript", "Dart", "PHP", "SQL"]
+        self.interests = ["Machine Learning", "Computer Vision", 
+                         "Mobile Development", "Cybersecurity", "Gaming"]
+        self.current_focus = "Deep Learning & AI Applications"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
 
-```javascript
-const tushar = {
-    location: "Mumbai, India",
-    interests: ["Machine Learning", "Computer Vision", "Mobile Dev", "Cybersecurity"],
-    currentFocus: "Deep Learning & AI Applications",
-    funFact: "I speak 4 languages: English, Hindi, Gujarati & Marathi"
-};
+me = TusharSurti()
+me.say_hi()
 ```
 
-## 💻 Tech Stack
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Frameworks & Libraries
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-## 🔥 Featured Projects
-
-### 🌞 [SolarScope](https://github.com/YOUR_USERNAME/solarscope)
-> AI-powered rooftop analysis for solar panel installation
-
-- Deep learning models for **rooftop segmentation** using DeepLabV3+ (ResNet-50)
-- **Solar panel detection** with Faster R-CNN
-- Web-based interface built with Flask
-- **Tech:** Python, DeepLabV3+, Faster R-CNN, Flask
-
----
-
-### 👁️ [See For Me](https://github.com/YOUR_USERNAME/see-for-me)
-> Accessibility app for visually impaired users
-
-- Real-time **object detection** with audio feedback
-- Multilingual support for **10 Indian languages**
-- Cross-platform mobile application
-- **Tech:** Flutter, Claude API, Google TTS
-
----
-
-### 🐾 [Animal Welfare Web](https://github.com/YOUR_USERNAME/animal-welfare-web)
-> Platform connecting people with stray animals for adoption
-
-- Full-stack web application promoting animal welfare
-- Database-driven adoption listings
-- **Tech:** HTML, CSS, JavaScript, PHP, SQL
-
----
-
-### 🛡️ Mail & URL Sentinel
-> Cybersecurity tool for malicious URL detection
-
-- WHOIS integration for domain analysis
-- Heuristic-based threat detection
-- Security fundamentals applied to real-world scenarios
-- **Tech:** Python, WHOIS API, Security Libraries
-
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack & Tools
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae)
+### 🚀 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=38bdae)
+### 🧠 AI/ML & Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 📱 Mobile & Web Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
-## 🎯 Current Focus
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-- 🔭 Working on advanced **Deep Learning** applications
-- 🌱 Learning **Computer Vision** and **NLP**
-- 🤝 Open to collaborating on **ML/AI projects**
-- 💬 Ask me about **Machine Learning, Flutter, or Web Development**
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌞 SolarScope
+<a href="https://github.com/YOUR_USERNAME/solarscope">
+<img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**AI-powered rooftop analysis for solar installation**
+
+🔹 DeepLabV3+ (ResNet-50) for rooftop segmentation  
+🔹 Faster R-CNN for solar panel detection  
+🔹 Flask web interface  
+🔹 Satellite imagery processing  
+
+`Python` `Deep Learning` `Flask` `Computer Vision`
+
+</td>
+<td width="50%">
+
+### 👁️ See For Me
+<a href="https://github.com/YOUR_USERNAME/see-for-me">
+<img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Accessibility app for visually impaired**
+
+🔹 Real-time object detection  
+🔹 Audio feedback system  
+🔹 10 Indian languages support  
+🔹 Cross-platform mobile app  
+
+`Flutter` `Claude API` `Google TTS` `Accessibility`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐾 Animal Welfare Web
+<a href="https://github.com/YOUR_USERNAME/animal-welfare">
+<img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Platform for stray animal adoption**
+
+🔹 Full-stack web application  
+🔹 Database-driven listings  
+🔹 User-friendly interface  
+🔹 Animal welfare promotion  
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+
+</td>
+<td width="50%">
+
+### 🛡️ Mail & URL Sentinel
+<a href="https://github.com/YOUR_USERNAME/url-sentinel">
+<img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+**Cybersecurity threat detection tool**
+
+🔹 Malicious URL detection  
+🔹 WHOIS integration  
+🔹 Heuristic analysis  
+🔹 Real-time threat assessment  
+
+`Python` `Cybersecurity` `WHOIS API` `Security`
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true&bg_color=0D1117&color=F8D866&line=F85D7F&point=FFFFFF" alt="Contribution Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> What I'm Up To
+
+```yaml
+current_focus:
+  - 🔭 Building advanced Deep Learning applications
+  - 🌱 Exploring Computer Vision & NLP techniques
+  - 🤖 Experimenting with Large Language Models
+  - 🎯 Contributing to open-source ML projects
+  
+looking_to_collaborate_on:
+  - AI/ML projects with real-world impact
+  - Flutter mobile applications
+  - Computer Vision solutions
+  - Accessibility technology
+  
+ask_me_about:
+  - Machine Learning & Deep Learning
+  - Python programming
+  - Flutter development
+  - Project ideas & collaboration
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🏆 Achievements & Experience
 
-- 🥇 **Event Head** - "Digital Sherlock" at Renaissance Techfest
-- 👨‍💻 **ML Intern** - Built CNN image classifier with 85% accuracy on CIFAR-100
-- 🔒 **Cybersecurity Training** - Developed security tools for threat analysis
-- 🛠️ **Technical Admin** - IETE Student Forum
+<div align="center">
 
-## 📫 Let's Connect!
+| 🎯 Achievement | 📝 Description |
+|---------------|----------------|
+| 🥇 **Event Head** | Led "Digital Sherlock" at Renaissance Techfest |
+| 👨‍💻 **ML Intern** | Built CNN classifier with 85% accuracy on CIFAR-100 |
+| 🔒 **Cybersecurity Training** | Developed security tools for threat analysis |
+| 🛠️ **Technical Admin** | IETE Student Forum - Website & Event Management |
+| 🎮 **Event Organizer** | "Code Housie" at Oscillations Techfest |
 
-I'm always interested in collaborating on innovative projects or discussing tech. Feel free to reach out!
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30"> Connect With Me
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsurti6@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsurti6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_USERNAME)
+
+</div>
+
+<div align="center">
+  
+### 💬 Let's collaborate on something amazing!
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=3EFFE7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+some+repos+if+you+like+them!;Always+open+to+interesting+projects+and+collaborations!;Happy+Coding!+🚀" alt="Footer Typing SVG" />
 </div>
