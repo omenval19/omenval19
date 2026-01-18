@@ -14,37 +14,11 @@
 </div>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> What I'm Up To
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-```yaml
-current_focus:
-  - 🔭 Building advanced Deep Learning applications
-  - 🌱 Exploring Computer Vision & NLP techniques
-  - 🤖 Experimenting with Large Language Models
-  - 🎯 Contributing to open-source ML projects
-  
-looking_to_collaborate_on:
-  - AI/ML projects with real-world impact
-  - Flutter mobile applications
-  - Computer Vision solutions
-  - Accessibility technology
-  
-achievements:
-  - 🥇 Event Head - "Digital Sherlock" at Renaissance Techfest
-  - 👨‍💻 ML Intern - Built CNN classifier with 85% accuracy (CIFAR-100)
-  - 🔒 Cybersecurity Training - Developed security threat detection tools
-  - 🛠️ Technical Admin - IETE Student Forum
-  
-ask_me_about:
-  - Machine Learning & Deep Learning
-  - Python programming
-  - Flutter development
-  - Project ideas & collaboration
-```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
