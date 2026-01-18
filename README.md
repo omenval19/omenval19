@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsurti6@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tushar-Surti)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -17,24 +17,23 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-```python
-class TusharSurti:
-    def __init__(self):
-        self.username = "YOUR_USERNAME"
-        self.location = "Mumbai, India 🇮🇳"
-        self.role = "Computer Engineering Student"
-        self.languages_spoken = ["English", "Hindi", "Gujarati", "Marathi"]
-        self.code = ["C++", "Python", "JavaScript", "Dart", "PHP", "SQL"]
-        self.interests = ["Machine Learning", "Computer Vision", 
-                         "Mobile Development", "Cybersecurity", "Gaming"]
-        self.current_focus = "Deep Learning & AI Applications"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<br>
 
-me = TusharSurti()
-me.say_hi()
-```
+**`Location:`** 📍 Mumbai, India 🇮🇳  
+**`Role:`** 💼 Computer Engineering Student  
+**`Focus:`** 🎯 Deep Learning & AI Applications  
+**`Languages:`** 🗣️ English • Hindi • Gujarati • Marathi  
+
+**`Interests:`**
+- 🤖 Machine Learning & Deep Learning
+- 👁️ Computer Vision
+- 📱 Mobile Development  
+- 🔒 Cybersecurity
+- 🎮 Gaming & Tech Exploration
+
+<br clear="right"/>
+
+> 💡 *"Building intelligent solutions that make a real-world impact"*
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -95,7 +94,7 @@ me.say_hi()
 <td width="50%">
 
 ### 🌞 SolarScope
-<a href="https://github.com/Tushar-Surti/solarscope">
+<a href="https://github.com/YOUR_USERNAME/solarscope">
 <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -224,7 +223,23 @@ ask_me_about:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🏆 Achievements & Experience
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/216649426-3a3ad8ed-dc98-4d73-8005-3e0980e6ff2e.gif" width="150">
+</p>
+
+<div align="center">
+
+| 🎯 Achievement | 📝 Description |
+|---------------|----------------|
+| 🥇 **Event Head** | Led "Digital Sherlock" at Renaissance Techfest |
+| 👨‍💻 **ML Intern** | Built CNN classifier with 85% accuracy on CIFAR-100 |
+| 🔒 **Cybersecurity Training** | Developed security tools for threat analysis |
+| 🛠️ **Technical Admin** | IETE Student Forum - Website & Event Management |
+| 🎮 **Event Organizer** | "Code Housie" at Oscillations Techfest |
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
