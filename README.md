@@ -9,6 +9,23 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
+<h2 align="center">🚀 Tech Stack & Tools</h2>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,python,pytorch,flutter,dart,cpp,flask&theme=dark" />
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216656983-8c1b4d89-04f6-4c19-bbce-7e68b3c71b6d.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656989-1d79db90-1e0d-4d8b-b4c6-b6c8eabcc2d7.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656987-09c8d7e3-0a7f-4a64-9fd3-2f7f0e07e35c.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656986-48c9b192-ff55-4f15-8c93-0cbe1f8b76b0.gif" width="60"/>
+<img src="https://user-images.githubusercontent.com/74038190/216656988-6f73e95c-ecf0-4b2f-bc62-35c2cb1c1db7.gif" width="60"/>
+
+</div>
+
+
 
 </div>
 
