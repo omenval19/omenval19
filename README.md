@@ -79,23 +79,7 @@ ask_me_about:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 Achievements & Experience
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216649426-3a3ad8ed-dc98-4d73-8005-3e0980e6ff2e.gif" width="150">
-</p>
-
-<div align="center">
-
-| 🎯 Achievement | 📝 Description |
-|---------------|----------------|
-| 🥇 **Event Head** | Led "Digital Sherlock" at Renaissance Techfest |
-| 👨‍💻 **ML Intern** | Built CNN classifier with 85% accuracy on CIFAR-100 |
-| 🔒 **Cybersecurity Training** | Developed security tools for threat analysis |
-| 🛠️ **Technical Admin** | IETE Student Forum - Website & Event Management |
-| 🎮 **Event Organizer** | "Code Housie" at Oscillations Techfest |
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
