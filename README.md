@@ -1,14 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=3EFFE7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tushar+Surti+👋" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=32&pause=1000&color=3EFFE7&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Tushar+Surti+👋;Computer+Science+Engineer;Full+Stack+%7C+AI+Enthusiast;Always+Learning+%26+Building" />
 
-<br><br>
-
-<b>Computer Science Engineer</b><br>
-<b>Full Stack Developer | AI Enthusiast</b><br>
-<b>Always Learning & Building</b>
-
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-surti/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tusharsurti6@gmail.com)
@@ -16,13 +10,16 @@
 
 </div>
 
----
+<br>
 
-## 🚀 Tech Stack & Tools
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=🚀+Tech+Stack+%26+Tools" />
+</div>
 
----
+<br>
 
-### 📚 Languages
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=F7DF1E&center=true&vCenter=true&width=400&lines=📚+Languages" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="60"/>
@@ -33,10 +30,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" width="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60"/>
 </p>
+</div>
 
----
+<br>
 
-### 🛠️ Frameworks
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=61DAFB&center=true&vCenter=true&width=400&lines=🛠️+Frameworks" />
 
 <p align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="60"/>
@@ -47,36 +46,42 @@
   <img src="https://skillicons.dev/icons?i=flutter" width="60"/>
   <img src="https://skillicons.dev/icons?i=pytorch" width="60"/>
 </p>
+</div>
 
----
+<br>
 
-### 🗄️ Database
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=4479A1&center=true&vCenter=true&width=400&lines=🗄️+Database" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" width="60"/>
 </p>
+</div>
 
----
+<br>
 
-### 🔧 Tools
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=22&color=F05032&center=true&vCenter=true&width=400&lines=🔧+Tools" />
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git" width="60"/>
   <img src="https://skillicons.dev/icons?i=github" width="60"/>
   <img src="https://skillicons.dev/icons?i=docker" width="60"/>
 </p>
+</div>
 
----
+<br><br>
 
 <div align="center">
 <img width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </div>
 
+<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<br>
+
 <div align="center">
-<b>Thanks for visiting! ⭐</b><br>
-<b>Star repos you like</b><br>
-<b>Always open to projects & collaborations</b><br>
-<b>Happy Coding 🚀</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=16&pause=1000&color=3EFFE7&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+⭐;Star+repos+you+like!;Always+open+to+projects+and+collaborations;Happy+Coding!+🚀" />
 </div>
