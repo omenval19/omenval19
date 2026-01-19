@@ -17,7 +17,6 @@
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="60" height="60"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="60" height="60"/>
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" alt="Python" width="60" height="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/>
@@ -37,7 +36,6 @@
 ### 🗄️ Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MongoDB" width="60" height="60"/>
 </p>
 
 ### 🔧 Tools
@@ -55,15 +53,10 @@
 </div>
 </div>
 <div align="center">
-<img align="center" alt="Coding" width="500" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="center" alt="Coding" width="600" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </div>
-
-
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=3EFFE7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+⭐+Star+some+repos+if+you+like+them!;Always+open+to+interesting+projects+and+collaborations!;Happy+Coding!+🚀" alt="Footer Typing SVG" />
 </div>
