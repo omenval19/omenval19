@@ -13,10 +13,9 @@
 
 <div align="center">
 
-## 💻 Tech Stack
 
 ### 📚 Languages
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5" width="60" height="60"/>
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" alt="CSS3" width="60" height="60"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" alt="JavaScript" width="60" height="60"/>
@@ -28,7 +27,7 @@
 </p>
 
 ### 🛠️ Frameworks
-<p align="left">
+<p align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" alt="React" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="60" height="60"/>
@@ -39,12 +38,13 @@
 </p>
 
 ### 🗄️ Database
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="60" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MongoDB" width="60" height="60"/>
 </p>
 
 ### 🔧 Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="60" height="60"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="60" height="60"/>
